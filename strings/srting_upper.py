@@ -6,3 +6,4 @@ print(name.lower())  #to print in small letters (only print in small but doest c
 
 print("Here is the same string in capital case: \n")
 print(name.upper)  #to print in upper case
+
